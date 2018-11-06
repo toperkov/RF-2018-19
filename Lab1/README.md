@@ -22,10 +22,9 @@ Cilj ove vježbe je pokazati kako dvija datoteke kreirane u na različitim uređ
 - U Notepad-u kreirajte *text* dokument
 - U dokument upišite vrijednost **test** te sačuvajte datoteku pod nazivom `test.txt`
 - Kreirajte novi dokument te u njega upišite vrijednost **Test** te ga sačuvajte pod nazivom `test1.txt`
-- U web pregledniku upišite: http://i-tools.org/hash
-- Označite u padajućem izborniku MD5, SHA1 i SHA256 sa liste (držite pritisnutu tipku CTRL)
-- Klikom na *Browse* označite datoteku test.txt koju ste prethodno sačuvali na svom računalu
-- Kliknite na *generate* tipku na dnu forme
+- U web pregledniku upišite: https://md5file.com/calculator
+- Označite u izborniku MD5, SHA1 i SHA256 sa liste
+- Klikom na *Drop files here or click for select* označite datoteku `test.txt` koju ste prethodno sačuvali na svom računalu
 - Trebali biste dobiti ove rezultate:
 
 ```
