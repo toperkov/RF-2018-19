@@ -2,7 +2,7 @@
 
 U sklopu ove vježbe student će se upoznati sa radom hash funkcija kao i sa hexadecimalnom reprezentacijom/notacijom.
 
-## Vježba 1
+# Vježba 1
 
 Cilj ove vježbe je razumijeti da datoteke imaju jedinstvena zaglavlja na osnovu tipa datoteke. Pokazat ćemo kako datoteke ne trebaju imati ekstenziju za koje se trenutno prikazuju. Veoma bitno je kod računalne forenzike dtektirati datateke koje imaju primijenjenu ekstenziju, jer one mogu ukazivati na potencijalno skrivanje informacije.
 
