@@ -7,3 +7,4 @@ U ovom repozitoriju objavljivat ćemo zadatke, upute, isječke kodova, i razne s
 ## Uputstva
 
 - [Lab 1 - Razumijevanje *hash* funkcija i hexadecimalne notacije](/Lab1/README.md)
+- [Lab 2 - Provjera integriteta slike i kreiranje *Live* USB-a](/Lab2/README.md)
