@@ -198,7 +198,7 @@ Dvostrukim klikom na datoteku je možete otvoriti u odgovarajućoj aplikaciji.
 
 ## Sigurno brisanje sadržaja sa medija za pohranu
 
-Danas postoji veliki broj programa koji nude mogućnost sigurnog brisanja sadržaja sa medija, a mi ćemo u sklopu ove vjezbe upotrebljavati programski alat *Eraser*.
+Danas postoji veliki broj programa koji nude mogućnost sigurnog brisanja sadržaja sa medija, a mi ćemo u sklopu ove vjezbe upotrebljavati programski alat *Eraser*. Eraser možete skinuti sa sljedećeg linka: https://sourceforge.net/projects/eraser/postdownload
 
 <p align="center">
     <img src="./Figures/Picture1_Eraser.png" width="600px" height="auto"/>
