@@ -105,7 +105,7 @@ U sklopu ove laboratorijske vježbe ćemo povratiti datoteke koje je osumnjičen
 
 Osumnjičenici veoma često žele zataškati svoje tragove brisanjem ključnih datoteka. Kao forenzični istražitelji trebamo znati da "izbrisani" podaci većinom ostaju sačuvani na računalu sve dok se ne prebrišu novim podacima. Korištenjem alata kao što su *Autopsy* te niz drugih paketa povrat podataka (*Encase, ProDiscover, FTK, Oxygen*, itd.) je trivijalan.
 
-U sklopu ove laboratorijske vježbe ćemo upotrebljavati *The Sleuth Kit (TSK)* za identifikaciju i obnovu izbrisanih datoteka. *The Sleuth Kit (TSK)* je isprva bio napravljen za Linux ali je odnedavno napravljen i za Windows-e. U sklopu ove vježbe ćemo upotrebljavati GUI sučelje pod nazivom *Autopsy* razvijeno za *TSK*.
+U sklopu ove laboratorijske vježbe ćemo upotrebljavati *The Sleuth Kit (TSK)* za identifikaciju i obnovu izbrisanih datoteka. *The Sleuth Kit (TSK)* je isprva bio napravljen za Linux ali je odnedavno napravljen i za Windows-e. U sklopu ove vježbe ćemo upotrebljavati GUI sučelje pod nazivom *Autopsy* razvijeno za *TSK*. Možete ga skinuti sa sljedećeg linka: https://www.sleuthkit.org/autopsy/download.php
 
 <p align="center">
     <img src="./Figures/Picture1_Autopsy.png" width="600px" height="auto"/>
