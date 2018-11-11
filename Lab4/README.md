@@ -54,7 +54,7 @@ echo neka tajna poruka > hidden_text.txt
 ```
 
 <p align="center">
-    <img src="./Figures/MP3Stego.png" width="600px" height="auto"/>
+    <img src="./Figures/Mp3Stego.png" width="600px" height="auto"/>
     <br><br>
 </p>
 
