@@ -11,7 +11,7 @@ U ovom primjeru ćemo vidjeti koje sve informacije mogu biti pohranjene sa datot
 Desnim klikom na svaku od datoteka te klikom na `Properties` pokušajte saznati što više informacija o tim datotekama. Možete li dati više informacija o navedenim datotekama (npr. kada je kreirana, modificirana, s kojim fotoaparatom je slikana, rezolucija fotoaparata).
 
 <p align="center">
-    <img src="./Figures/GeoSetter.png" width="600px" height="auto"/>
+    <img src="./Figures/GeoSetter.png" width="900px" height="auto"/>
     <br><br>
 </p>
 
@@ -54,7 +54,7 @@ echo neka tajna poruka > hidden_text.txt
 ```
 
 <p align="center">
-    <img src="./Figures/Mp3Stego.png" width="600px" height="auto"/>
+    <img src="./Figures/Mp3Stego.png" width="900px" height="auto"/>
     <br><br>
 </p>
 
